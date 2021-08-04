@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ebunks
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on R/SQL?PowerBI
+- 🌱 I’m currently learning Power BI
+- 🌱 I'm always learning R and SQL
+- 💞️ I’m looking to collaborate on R/SQL/PowerBI
 - 📫 How to reach me eric.bunker@outlook.com
 
 <!---
